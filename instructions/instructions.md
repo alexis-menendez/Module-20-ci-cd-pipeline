@@ -31,11 +31,11 @@ THEN I should see that another GitHub Action triggers and should automatically d
 
 Your GitHub Actions for tests should look similar to the image below:
 
-![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/18-mern-homework-demo-01.gif)
+IMAGE 1 GOES HERE
 
 Your GitHub Actions for deployments should look similar to the image below:
 
-![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./Assets/18-mern-homework-demo-02.gif)
+IMAGE 2 GOES HERE
 
 ## Getting Started
 
