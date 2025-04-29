@@ -31,11 +31,12 @@ THEN I should see that another GitHub Action triggers and should automatically d
 
 Your GitHub Actions for tests should look similar to the image below:
 
-IMAGE 1 GOES HERE
+![Cypress Tests Running](https://github.com/alexis-menendez/Module-20-ci-cd-pipeline/blob/main/Assets/20-Actions-Cypress-Tests-Image-1.png?raw=true)
 
 Your GitHub Actions for deployments should look similar to the image below:
 
-IMAGE 2 GOES HERE
+![Render Deployment After Merge](https://github.com/alexis-menendez/Module-20-ci-cd-pipeline/blob/main/Assets/20-Actions-Render-Deploy-Image-2.png?raw=true)
+
 
 ## Getting Started
 
@@ -47,7 +48,8 @@ Once you see the application has been deployed, you'll navigate to the Settings 
 
 **Important**: Make sure to study the application before building upon it. Better yet, start by making a copy of it. It's already a working application&mdash;you're converting it from RESTful API practices to a GraphQL API.
 
-![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./Assets/18-mern-homework-demo-02.gif)
+![Render Settings](https://github.com/alexis-menendez/Module-20-ci-cd-pipeline/blob/main/Assets/20-Render-Settings-Render-Deploy.png?raw=true)
+
 
 Copy the Deploy hook URL as you will need it to properly configure GitHub Actions to deploy to Render.
 
